@@ -1,6 +1,6 @@
-**The Hindenburg Incident - Part II**
+### The Hindenburg Incident - Part II ###
+*by Paul Stothers*
 ___
-**by Paul Stothers**
 
 Some copy goes here
 
