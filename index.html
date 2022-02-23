@@ -60,6 +60,16 @@ Put simply I like to get eyeballs on meaningful projects at incredibly competiti
 <br>paul.edward.stothers@gmail.com
         </p>
             </font>
+        
+        <!-- Current Time -->
+AKL:
+<input type="text" id="currentTime">
+<br><br>
+<script>
+var today = new Date();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+  document.getElementById("currentTime").value = time;
+</script>
  
         
     </body>
