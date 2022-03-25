@@ -25,6 +25,33 @@ body {
     cursor: url('mask_cursor.png'),auto;
             }
             
+            
+            @keyframes hor-movement {
+  from {
+    margin-left: 0%;
+  }
+  to {
+    margin-left: 100%;
+  }
+}
+
+@keyframes ver-movement {
+  from {
+    margin-top: 0%;
+  }
+  to {
+    margin-top: 100%;
+  }
+}
+
+.bounce {
+  animation-name: hor-movement, ver-movement;
+  animation-duration: 3.141s, 1.414s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+}
+            
             .logo{
                 margin-top: 42px;
                 margin-bottom: 31px;
@@ -99,6 +126,10 @@ b, strong {
         
     </head>
     <body>
+        
+     
+  <img class="bounce" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/279/thinking-face_1f914.png"> </img>
+
         
    
         
