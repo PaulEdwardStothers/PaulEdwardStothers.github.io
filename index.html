@@ -31,6 +31,25 @@ body {
                 
             }
             
+            $size: 100px;
+
+body {
+  margin: 0;
+}
+
+img, div {
+  width: $size;
+  height: $size;
+}
+
+.x {
+  animation: x 13s linear infinite alternate;
+}
+
+.y {
+  animation: y 7s linear infinite alternate;
+}
+            
             img:hover {
   /* Start the shake animation and make the animation last for 0.5 seconds */
   animation: shake 0.5s;
@@ -97,10 +116,10 @@ b, strong {
         
     </head>
     <body>
-      <MARQUEE DIRECTION="down" BEHAVIOR="alternate" STYLE=" width:700px height: 400px overflow:hidden;
-">
-<MARQUEE BEHAVIOR="alternate">This text floats.</MARQUEE>
-</MARQUEE>
+        
+    <div class="x">
+  <img class="y" src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="codepen" />
+</div>
         
 
 
