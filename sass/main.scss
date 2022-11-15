@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6{
     colour: black !important;
 }
 h1{
-    font-size: 3em;
+    font-size: 4.1em;
     position: relative;
 }
 h2{
@@ -58,7 +58,7 @@ h2{
 .intro-h1::before{
     content: '';
     width: 68%;
-    height: 16px;
+    height: 10px;
     background-color: none;
     position: absolute;
     top: 0.75em;
@@ -68,7 +68,7 @@ h2{
 .variations-h1::before{
     content: '';
     width: 68%;
-    height: 16px;
+    height: 10px;
     background-color: none;
     position: absolute;
     left: 0;
