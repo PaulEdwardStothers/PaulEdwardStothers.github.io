@@ -45,6 +45,7 @@ button{
 }
 h1, h2, h3, h4, h5, h6{
     font-weight: 900;
+    colour: #C387FE !important;
 }
 h1{
     font-size: 2em;
@@ -57,7 +58,7 @@ h2{
     content: '';
     width: 68%;
     height: 10px;
-    background-color: $yellow;
+    background-color: none;
     position: absolute;
     top: 0.75em;
     left: -5px;
