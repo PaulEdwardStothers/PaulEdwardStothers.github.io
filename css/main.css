@@ -67,7 +67,7 @@ h2 {
   content: '';
   width: 68%;
   height: 10px;
-  background-color: #f6dc00;
+  background-color: #none;
   position: absolute;
   top: 0.75em;
   left: -5px;
@@ -78,7 +78,7 @@ h2 {
   content: '';
   width: 68%;
   height: 10px;
-  background-color: #f6dc00;
+  background-color: #none;
   position: absolute;
   left: 0;
   bottom: 0.2em;
