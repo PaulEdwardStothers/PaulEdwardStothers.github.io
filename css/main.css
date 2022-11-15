@@ -13,6 +13,7 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
+  color: black;
   }
 
 main {
@@ -116,7 +117,7 @@ h4::before {
 }
 
 .navbar {
-  background-color: white;
+  background-color: black;
   z-index: 5;
   margin: 0 auto;
   padding: 20px 0;
