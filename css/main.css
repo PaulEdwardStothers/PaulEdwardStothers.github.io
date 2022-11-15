@@ -116,7 +116,7 @@ h4::before {
 }
 
 .navbar {
-  background-color: #F6F1FF !Important;
+  background-color: #F6F1FF !important;
   z-index: 5;
   margin: 0 auto;
   padding: 20px 0;
