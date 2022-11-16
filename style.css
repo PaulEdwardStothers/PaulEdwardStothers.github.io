@@ -268,7 +268,7 @@ svg {
 
 .ui-component-card {
   background-color: var(--ui-color-background-secondary);
-  border: 2px var(--ui-color-background-primary);
+  border: 0.5rem outset black;
   border-radius: var(--ui-radius-card);
   overflow: hidden;
   padding: 2.25rem 1.5rem;
