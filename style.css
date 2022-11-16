@@ -59,6 +59,16 @@ TABLE OF CONTENT
   --ui-color-typography-body   : var(--ui-color-n-900);
   --ui-color-typography-note   : var(--ui-color-n-300);
   --ui-color-typography-button : var(--ui-color-n-000);
+  
+  /*------------------------------------------------------------
+  |
+  | 1.2 HAPPY BRAND CHANGES
+  |
+  ------------------------------------------------------------*/
+  
+  .logo {
+    margin-bottom: 60px;
+  }
 
   /*------------------------------------------------------------
   |
