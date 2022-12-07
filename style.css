@@ -14,6 +14,7 @@ body {
   h1 {
   font-size: clamp(2.1rem, 2vw, 16rem);
   line-height: 80%;
+  margin-bottom: 1px; /* between paragraphs */
     
   
 }
@@ -21,6 +22,8 @@ p {
   -webkit-text-stroke: 1px black;
  font-size: clamp(8rem, 2vw, 16rem);
   line-height: 80%;
+  margin-bottom: 1px; /* between paragraphs */
+  
   
 }
 
