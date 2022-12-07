@@ -6,7 +6,7 @@
 
 a {
   color: yellow;
-  text-stroke: 1px black;
+  -webkit-text-stroke: 1px black!;
   text-decoration: none;
 }
   /* unvisited link */
