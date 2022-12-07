@@ -13,7 +13,7 @@ p {
  font-size: clamp(4.5rem, 3vw, 26.5rem);
  color: yellow;
  line-height: 80%;
- margin-bottom: 0.25rem; /* between paragraphs */
+ margin-bottom: -1.2rem; /* between paragraphs */
  -webkit-text-stroke: 1px black;
  }
 
