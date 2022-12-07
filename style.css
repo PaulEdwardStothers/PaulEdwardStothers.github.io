@@ -6,6 +6,6 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1.2rem, -2vw, 8rem);
   margin-left: 5px;
-  color: red;
+  color: black;
   
 }
