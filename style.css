@@ -1,6 +1,7 @@
 :root {
-  font-size: 62.5%;
   font-family: Arial, Helvetica, sans-serif;
+  font-size: clamp(0.5rem, -4vw + 6rem, 20rem);
+  margin-left: 5px;
   color: yellow;
   text-stroke: 1px black;
   /* unvisited link */
@@ -26,23 +27,5 @@ a:active {
   color: yellow;
   text-decoration: underline;
 }
-}
-
-p {
-  font-size: 1.6rem;
-}
-/*For mobile devices*/
-@media (max-width: 600px) {
-
-p {
-    font-size: 3.1rem;
-  }
-}
-/*for desktop*/
-@media (min-width: 1000px) {
-
-p {
-    font-size: 1.2rem;
-  }
 }
 
