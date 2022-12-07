@@ -4,7 +4,7 @@
 
 p {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: clamp(10rem, -20vw, 2.1rem);
+  font-size: clamp(1.2rem, -2vw, 8rem);
   margin-left: 5px;
   color: red;
   
