@@ -3,6 +3,29 @@
   font-family: Arial, Helvetica, sans-serif;
   color: yellow;
   text-stroke: 1px black;
+  /* unvisited link */
+a:link {
+  color: yellow;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+  text-decoration: underline;
+}
 }
 
 p {
