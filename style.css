@@ -20,12 +20,10 @@ body {
 }
 p {
   -webkit-text-stroke: 1px black;
- font-size: clamp(8rem, 2vw, 16rem);
-  line-height: 80%;
+ font-size: clamp(4rem, 2vw, 8rem);
   margin-bottom: 1px; /* between paragraphs */
-  
-  
-}
+ colour: black important!;
+ }
 
 a {
   color: yellow;
