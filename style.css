@@ -9,7 +9,7 @@ body {
   
 }
   
-ul li {
+pre {
   font-size: clamp(4rem, 2vw, 20rem);
   line-height: 80%;
   margin-bottom: 0px; /* between paragraphs */
