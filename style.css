@@ -8,10 +8,8 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   background: red;
-  cursor:url(/images/smiley_016.gif), auto;
-  cursor:pointer url(/images/smiley_016.gif), auto;}
-  
-}
+  cursor:url(/images/smiley_016.gif), pointer, auto;
+  }
 
 
 p {
