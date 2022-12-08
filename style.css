@@ -18,6 +18,12 @@ p {
  
  }
 
+p .text {
+ font-size: clamp(2.5rem, 3vw, 18.5rem);
+ margin-bottom: -2.1rem; /* between paragraphs */
+ 
+ }
+
 /* default link styles, appropriate for content area */
 a {color: yellow; text-decoration: none;}
 a:link {color: yellow;}
