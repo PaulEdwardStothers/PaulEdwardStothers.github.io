@@ -18,8 +18,9 @@ p {
  
  }
 
-p .text {
+h3 {
  font-size: clamp(2.5rem, 3vw, 18.5rem);
+ colour: black;
  margin-bottom: -2.1rem; /* between paragraphs */
  
  }
