@@ -41,7 +41,11 @@ a.nav:active {color: black;text-decoration:line-through;}
 
 img {
   marginm-top: 8em;
-  width: 100%;
-  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
+
 
