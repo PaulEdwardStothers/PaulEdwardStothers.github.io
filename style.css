@@ -18,23 +18,17 @@ p {
  
  }
 
-a .black{
-  color: black;
-  text-decoration: none;
-  line-height: 80%;
-}
+/* default link styles, appropriate for content area */
+a {color: yellow; text-decoration: none;}
+a:link {color: yellow;}
+a:visited {color: yellow;}
+a:hover {color: black;}
+a:active {color: yellow;}
 
-a {
-  color: yellow;
-  text-decoration: none;
-  line-height: 80%;
-}
-
-/* mouse over link */
-a:hover {
-  color: black;
-  text-decoration: none;
-  -webkit-text-stroke: 1px black;
-}
-
+/* classed link styles, appropriate for navigation area */
+a.nav {color: black; text-decoration: none;}
+a.nav:link {color: black;}
+a.nav:visited {color: black;}
+a.nav:hover {color: yellow;}
+a.nav:active {color: yellow;}
 
