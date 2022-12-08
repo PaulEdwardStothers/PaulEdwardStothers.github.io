@@ -4,8 +4,7 @@
   }
 
 .test {
-  width: max-content;
-  margin: auto;
+  display: block;
   cursor:url(/images/smiley_016.gif), auto;
 }
 
