@@ -6,7 +6,9 @@
 .test {
   display: block;
   cursor:url(/images/smiley_016.gif), auto;
-  position:fixed;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
 }
 
 
