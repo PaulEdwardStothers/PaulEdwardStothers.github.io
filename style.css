@@ -33,9 +33,9 @@ a:hover {color: black;}
 a:active {color: yellow;}
 
 /* classed link styles, appropriate for navigation area */
-a.nav {color: yellow; text-decoration:line-through;;}
-a.nav:link {color: yellow;}
-a.nav:visited {color: yellow;}
+a.nav {color: yellow; text-decoration:line-through;}
+a.nav:link {color: yellow;text-decoration:line-through;}
+a.nav:visited {color: yellow;text-decoration:line-through;}
 a.nav:hover {color: black;}
-a.nav:active {color: yellow;}
+a.nav:active {color: yellow;text-decoration:line-through;}
 
