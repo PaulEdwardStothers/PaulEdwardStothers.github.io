@@ -40,11 +40,10 @@ a.nav:hover {color: black;}
 a.nav:active {color: black;text-decoration:line-through;}
 
 img {
-  marginm-top: 8em;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin-top: 8em;
+  width: 100%;
+  object-fit: cover;
+  object-position: bottom;
 }
 
 
