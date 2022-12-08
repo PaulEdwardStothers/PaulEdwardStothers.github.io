@@ -14,7 +14,7 @@ body {
 p {
  font-size: clamp(4.5rem, 3vw, 26.5rem);
  line-height: 80%;
- margin-bottom: -3.1rem; /* between paragraphs */
+ margin-bottom: -2.1rem; /* between paragraphs */
  
  }
 
