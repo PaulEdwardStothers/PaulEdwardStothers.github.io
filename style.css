@@ -2,16 +2,6 @@
   font-size: 62.5%;
   
   }
-
-.test {
-  display: block;
-  cursor:url(/images/smiley_016.gif), auto;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
-}
-
-
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
@@ -19,6 +9,15 @@ body {
   background: red;
   
   }
+
+.test {
+  display: block;
+  cursor:url(/images/smiley_016.gif), auto;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: red;
+}
 
 
 p {
