@@ -37,5 +37,5 @@ a.nav {color: yellow; text-decoration:line-through;}
 a.nav:link {color: yellow;text-decoration:line-through;}
 a.nav:visited {color: yellow;text-decoration:line-through;}
 a.nav:hover {color: black;}
-a.nav:active {color: yellow;text-decoration:line-through;}
+a.nav:active {color: black;text-decoration:line-through;}
 
