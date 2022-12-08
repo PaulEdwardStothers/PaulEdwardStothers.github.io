@@ -1,6 +1,6 @@
 :root {
   font-size: 62.5%;
-  cursor:url(http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif), auto;
+  
   }
 
 body {
@@ -8,6 +8,7 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   background: red;
+  cursor:url(/images/smiley_016.gif), auto;
   
 }
 
