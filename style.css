@@ -6,6 +6,7 @@
 .test {
   display: block;
   cursor:url(/images/smiley_016.gif), auto;
+  position:fixed;
 }
 
 
