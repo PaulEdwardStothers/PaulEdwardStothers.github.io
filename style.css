@@ -39,3 +39,9 @@ a.nav:visited {color: yellow;text-decoration:line-through;}
 a.nav:hover {color: black;}
 a.nav:active {color: black;text-decoration:line-through;}
 
+img {
+  margin-top: 1em;
+  max-width: 100%;
+  height: auto;
+}
+
