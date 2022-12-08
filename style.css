@@ -10,7 +10,7 @@ body {
   
 }
 
-.top {
+a.top {
  font-size: clamp(4.5rem, 3vw, 26.5rem);
  color: blue important!;
  line-height: 80%;
@@ -30,7 +30,6 @@ p {
 a {
   color: yellow;
   text-decoration: none;
-  
   line-height: 80%;
 }
   /* unvisited link */
