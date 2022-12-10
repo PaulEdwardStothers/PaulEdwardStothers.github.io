@@ -30,7 +30,7 @@ p {
 h3 {
  font-size: clamp(3.2rem, 3vw, 20.5rem);
  color: white;
- margin-top: 2.1rem; /* between paragraphs */
+ margin-top: 4rem; /* between paragraphs */
  margin-bottom: -2.1rem; /* between paragraphs */
  
  }
