@@ -7,18 +7,25 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   background: red;
+  cursor:url(/images/smiley_016.gif), auto;
   
   }
 
 .test {
   display: block;
-  cursor:url(/images/smiley_016.gif), auto;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
   background-color: red;
   margin-bottom: 2.1rem;
 }
+
+.test {
+  display: block;
+  top: 8rem;
+  margin-bottom: 2.1rem;
+}
+
 
 
 p {
