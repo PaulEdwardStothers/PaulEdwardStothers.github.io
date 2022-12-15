@@ -57,13 +57,7 @@ a.nav:visited {color: yellow;text-decoration:none;}
 a.nav:hover {color: black;}
 a.nav:active {color: black;text-decoration:none;}
 
-img {
-  margin-top: 8em;
-  max-width: 100%;
-  height: auto;
-  object-fit: cover;
-  object-position: bottom;
-}
+
 
 .row {
   display: -ms-flexbox; /* IE10 */
